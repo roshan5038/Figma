@@ -357,13 +357,16 @@ page 4 CSS Code
 
 
 ## OUTPUT:
-![alt text](<page 1.png>)
+<img width="356" height="738" alt="page 1" src="https://github.com/user-attachments/assets/df908b79-e688-41af-9a1b-7779bf8433d4" />
 
-![alt text](<page 2.png>)
+<img width="338" height="731" alt="page 2" src="https://github.com/user-attachments/assets/8b19f1ea-0b98-471c-b077-7f6ff135f4db" />
 
-![alt text](<page 3.png>)
+<img width="342" height="723" alt="page 3" src="https://github.com/user-attachments/assets/4c50f97d-0a19-42e8-b48a-5c62a7d936fc" />
 
-![alt text](<page 4.png>)
+<img width="360" height="709" alt="page 4" src="https://github.com/user-attachments/assets/b5cfd8a8-678f-4536-9570-56d6d5b34fed" />
+
+
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
